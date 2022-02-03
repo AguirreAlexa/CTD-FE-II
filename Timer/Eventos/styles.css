@@ -1,0 +1,17 @@
+.contenedor{
+    background-color: crimson;
+    color: white;
+    max-width: 300px;
+    border-radius: 20px;
+    padding: 40px;
+    margin: 20px auto;
+    text-align: center;
+}
+
+#btn-stop{
+    padding: 5px 15px;
+    font-size: 1.5rem;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+}
